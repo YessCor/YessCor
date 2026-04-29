@@ -1,32 +1,39 @@
-# YessCor Repository Overview
+# ¡Hola! 👋
 
-Welcome to the YessCor organization on GitHub! Below is a comprehensive overview of all available repositories:
+## Presentación
 
-## Repositories
+Soy un apasionado de la programación y el desarrollo de software. Desde pequeño, me he interesado en la tecnología y en cómo funciona el mundo digital. Siempre estoy aprendiendo y encontrando nuevas formas de resolver problemas.
 
-### CoolTrack-Pro
-A project for tracking swimming workouts.
+## Educación
 
-### FitnessApp
-An application to help users track fitness goals and progress.
+🎓 **SENA**  
+- Técnico en Programación de Software  
+- Tecnólogo en Análisis y Desarrollo de Software
 
-### GestEmp
-A management system for employee records and payroll.
+## Habilidades
 
-### Inmobiliaria
-A real estate management platform.
+🔧 **Tecnologías y Herramientas:**
+- Programación: Java, Python, JavaScript
+- Desarrollo Web: HTML, CSS, React
+- Bases de Datos: MySQL, MongoDB
+- Control de Versiones: Git, GitHub
 
-### proyecto2
-A secondary project focusing on a specific feature set or product.
+## Mis Repositorios
 
-### SistemaDeSeguridad
-A security system project for monitoring and controls.
+Aquí tienes algunos de mis proyectos personales:
+- [CoolTrack-Pro](link) 🚀
+- [FitnessApp](link) 🏋️
+- [Inmobiliaria](link) 🏠
+- [GestEmp](link) 💼
+- [SistemaDeSeguridad](link) 🔒
 
-### [Additional Repository Name]
-Description of any additional repositories can go here.
+## Contacto
 
-## Contributions
-We encourage contributions from the community, please visit respective repositories for contribution guidelines.
+📧 Puedes contactarme en [YessCor@example.com](mailto:YessCor@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yesscor)  
 
-## License
-All repositories are available under the MIT License unless otherwise noted.
+---
+
+![](https://img.shields.io/badge/Version-1.0.0-brightgreen)  
+![](https://img.shields.io/badge/Status-Active-blue)  
+![](https://img.shields.io/badge/License-MIT-orange)  
