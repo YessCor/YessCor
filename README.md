@@ -1,16 +1,32 @@
-## Hi there 👋
+# YessCor Repository Overview
 
-<!--
-**YessCor/YessCor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the YessCor organization on GitHub! Below is a comprehensive overview of all available repositories:
 
-Here are some ideas to get you started:
+## Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CoolTrack-Pro
+A project for tracking swimming workouts.
+
+### FitnessApp
+An application to help users track fitness goals and progress.
+
+### GestEmp
+A management system for employee records and payroll.
+
+### Inmobiliaria
+A real estate management platform.
+
+### proyecto2
+A secondary project focusing on a specific feature set or product.
+
+### SistemaDeSeguridad
+A security system project for monitoring and controls.
+
+### [Additional Repository Name]
+Description of any additional repositories can go here.
+
+## Contributions
+We encourage contributions from the community, please visit respective repositories for contribution guidelines.
+
+## License
+All repositories are available under the MIT License unless otherwise noted.
