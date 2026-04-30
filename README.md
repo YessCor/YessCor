@@ -27,7 +27,7 @@ Siempre aprendiendo y explorando nuevas tecnologías para crear soluciones innov
 | Nivel | Institución | Estado |
 |-------|------------|-------|
 | 🎓 **Técnico en Programación de Software** | SENA | ✅ Completado |
-| 🎓 **Tecnólogo en Análisis y Desarrollo de Software** | SENA | ✅ Completado |
+| 🎓 **Tecnólogo en Análisis y Desarrollo de Software** | SENA | 🔄 En curso |
 
 ---
 
