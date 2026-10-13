@@ -2,13 +2,13 @@
 
 # 👋 Hola, soy Yessid Cordero
 
-### Full-Stack Developer | Construyendo soluciones digitales con impacto real
+### Full-Stack Developer | Transformando ideas en soluciones digitales
 
 ![Visitors](https://img.shields.io/badge/Visitas-Activo-brightgreen)
 ![Status](https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-blue)
 ![Location](https://img.shields.io/badge/Ubicación-Colombia-success)
 
-**`🚀 +15 repositorios` | `🌐 Full-Stack` | `📱 Mobile + Web` | `🧠 IA + Automatización`**
+**`🚀 16 repositorios públicos` | `🌐 Full-Stack` | `📱 Mobile + Web` | `🧠 IA + Automatización`**
 
 </div>
 
@@ -20,7 +20,7 @@ Soy un desarrollador Full-Stack con enfoque en crear productos digitales funcion
 
 He trabajado en proyectos de administración, e-commerce, seguridad, analítica, apps móviles, dashboards empresariales y soluciones con IA/data. Mi objetivo es seguir aprendiendo, colaborar en equipos productivos y construir software que resuelva problemas concretos.
 
-También manejo proyectos privados y de cliente, enfocados en soluciones empresariales con criterios de confidencialidad, seguridad y alto valor de negocio.
+También tengo experiencia en proyectos privados y de cliente, enfocados en soluciones empresariales, confidenciales y de alto valor para negocio.
 
 ---
 
@@ -59,31 +59,51 @@ También manejo proyectos privados y de cliente, enfocados en soluciones empresa
 
 ---
 
-## Repositorios principales
+## Repositorios de GitHub
 
-| Proyecto | Categoría | Enlace |
-|----------|-----------|--------|
-| **YessCor** | Perfil / presentación personal | [Ver repositorio](https://github.com/YessCor/YessCor) |
-| **GestEmp** | SaaS empresarial / gestión | [Ver repositorio](https://github.com/YessCor/GestEmp) |
-| **Inmobiliaria** | Gestión inmobiliaria | [Ver repositorio](https://github.com/YessCor/Inmobiliaria) |
-| **FitnessApp** | App móvil de fitness | [Ver repositorio](https://github.com/YessCor/FitnessApp) |
-| **CoolTrack-Pro** | Gestión HVAC / servicios | [Ver repositorio](https://github.com/YessCor/CoolTrack-Pro) |
-| **CoolTrackKotlin** | App móvil con Kotlin | [Ver repositorio](https://github.com/YessCor/CoolTrackKotlin) |
-| **Cooltrack_Flutter** | App móvil con Flutter | [Ver repositorio](https://github.com/YessCor/Cooltrack_Flutter) |
-| **DebtFlow** | Finanzas / administración de deudas | [Ver repositorio](https://github.com/YessCor/DebtFlow) |
-| **SistemaDeSeguridad** | Seguridad / reconocimiento facial | [Ver repositorio](https://github.com/YessCor/SistemaDeSeguridad) |
-| **HealthETL** | Analítica / ETL | [Ver repositorio](https://github.com/YessCor/HealthETL) |
-| **EduPredict** | Predicción / analítica educativa | [Ver repositorio](https://github.com/YessCor/EduPredict) |
-| **YessMer** | Plataforma / producto digital | [Ver repositorio](https://github.com/YessCor/YessMer) |
-| **PortafolioYess** | Portafolio web personal | [Ver repositorio](https://github.com/YessCor/PortafolioYess) |
-| **Brand** | Branding / identidad visual | [Ver repositorio](https://github.com/YessCor/Brand) |
-| **CC_JR** | Proyecto digital / aplicación | [Ver repositorio](https://github.com/YessCor/CC_JR) |
-| **gestordetareas-sencillo** | Herramienta de productividad simple | [Ver repositorio](https://github.com/YessCor/gestordetareas-sencillo) |
-| **Manjares del Campo** | E-commerce agrícola | [Ver estructura del proyecto](https://github.com/YessCor?tab=repositories) |
-| **CinePlex** | Sistema de cine / tickets | [Ver estructura del proyecto](https://github.com/YessCor?tab=repositories) |
-| **Repositorios privados** | Proyectos internos / clientes / confidenciales | 🔒 No públicos |
+### Web y aplicaciones empresariales
 
-> Algunos repositorios se enfocan en soluciones específicas y otros en experimentación, práctica o proyectos en evolución. Además, cuento con proyectos privados para cliente, soluciones empresariales y entregas internas, que por confidencialidad no están publicados públicamente.
+| Repositorio | Descripción | Enlace |
+|-------------|-------------|--------|
+| **YessCor** | Perfil y presentación personal | [Ver](https://github.com/YessCor/YessCor) |
+| **GestEmp** | SaaS empresarial para gestión y administración | [Ver](https://github.com/YessCor/GestEmp) |
+| **Inmobiliaria** | Sistema inmobiliario con administración de lotes y pagos | [Ver](https://github.com/YessCor/Inmobiliaria) |
+| **YessMer** | Plataforma digital / proyecto productivo | [Ver](https://github.com/YessCor/YessMer) |
+| **PortafolioYess** | Portafolio personal web | [Ver](https://github.com/YessCor/PortafolioYess) |
+| **Brand** | Identidad visual / branding | [Ver](https://github.com/YessCor/Brand) |
+| **CC_JR** | Proyecto digital de aplicación y negocio | [Ver](https://github.com/YessCor/CC_JR) |
+
+### Mobile y apps
+
+| Repositorio | Descripción | Enlace |
+|-------------|-------------|--------|
+| **FitnessApp** | App móvil de fitness | [Ver](https://github.com/YessCor/FitnessApp) |
+| **CoolTrack-Pro** | Sistema de gestión HVAC con roles | [Ver](https://github.com/YessCor/CoolTrack-Pro) |
+| **CoolTrackKotlin** | App móvil desarrollada en Kotlin | [Ver](https://github.com/YessCor/CoolTrackKotlin) |
+| **Cooltrack_Flutter** | App móvil desarrollada en Flutter | [Ver](https://github.com/YessCor/Cooltrack_Flutter) |
+
+### Data, analítica y automatización
+
+| Repositorio | Descripción | Enlace |
+|-------------|-------------|--------|
+| **HealthETL** | Procesos ETL y analítica de datos | [Ver](https://github.com/YessCor/HealthETL) |
+| **EduPredict** | Solución orientada a predicción y análisis educativo | [Ver](https://github.com/YessCor/EduPredict) |
+| **DebtFlow** | Gestión y control de deudas | [Ver](https://github.com/YessCor/DebtFlow) |
+
+### Seguridad y productividad
+
+| Repositorio | Descripción | Enlace |
+|-------------|-------------|--------|
+| **SistemaDeSeguridad** | Seguridad digital con reconocimiento y control | [Ver](https://github.com/YessCor/SistemaDeSeguridad) |
+| **gestordetareas-sencillo** | Herramienta de productividad simple | [Ver](https://github.com/YessCor/gestordetareas-sencillo) |
+
+### Repositorios adicionales
+
+| Repositorio | Descripción | Enlace |
+|-------------|-------------|--------|
+| **YessCor** | Perfil principal | [Ver](https://github.com/YessCor/YessCor) |
+
+> También cuento con proyectos privados y de cliente, enfocados en soluciones empresariales y confidenciales, que no se publican en GitHub por políticas de negocio.
 
 ---
 
@@ -106,7 +126,7 @@ También manejo proyectos privados y de cliente, enfocados en soluciones empresa
 
 | Indicador | Valor |
 |-----------|-------|
-| Repositorios activos | 15+ |
+| Repositorios públicos | 16 |
 | Repositorios privados | Incluidos en proyectos de cliente |
 | Enfoque principal | Full-Stack + Mobile |
 | Tecnologías principales | TypeScript, Python, React, Node.js |
