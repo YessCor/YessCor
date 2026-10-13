@@ -26,31 +26,31 @@ React • Next.js • TypeScript • Node.js • Python • PostgreSQL • Supab
 
 ## 🚀 Proyectos destacados
 
-He organizados los repositorios públicos por categoría. Los proyectos privados se listan como confidenciales sin enlace.
+He organizado los repositorios públicos por categoría. Los proyectos privados se listan como confidenciales sin enlace.
 
 ### Web y SaaS
 
-- GestEmp — SaaS empresarial (Next.js + Supabase)
-- Inmobiliaria — Plataforma de gestión inmobiliaria (Next.js + Neon)
-- YessMer — Plataforma / producto digital
-- CC_JR — Aplicación / producto digital
+- GestEmp — SaaS empresarial (Next.js + Supabase) — [Ver](https://github.com/YessCor/GestEmp)
+- Inmobiliaria — Plataforma de gestión inmobiliaria (Next.js + Neon) — [Ver](https://github.com/YessCor/Inmobiliaria)
+- YessMer — Plataforma / producto digital — [Ver](https://github.com/YessCor/YessMer)
+- CC_JR — Aplicación / producto digital — [Ver](https://github.com/YessCor/CC_JR)
 
 ### Móvil
 
-- FitnessApp — App de fitness (Expo / React Native)
-- CoolTrack-Pro — Gestión de servicios HVAC (roles y workflows)
-- CoolTrackKotlin — App móvil en Kotlin
+- FitnessApp — App de fitness (Expo / React Native) — [Ver](https://github.com/YessCor/FitnessApp)
+- CoolTrack-Pro — Gestión de servicios HVAC (roles y workflows) — [Ver](https://github.com/YessCor/CoolTrack-Pro)
+- CoolTrackKotlin — App móvil en Kotlin — [Ver](https://github.com/YessCor/CoolTrackKotlin)
 
 ### Data & ML
 
-- HealthETL — Procesos ETL y analítica
-- EduPredict — Predicciones y analítica educativa
-- DebtFlow — Gestión y seguimiento financiero
+- HealthETL — Procesos ETL y analítica — [Ver](https://github.com/YessCor/HealthETL)
+- EduPredict — Predicciones y analítica educativa — [Ver](https://github.com/YessCor/EduPredict)
+- DebtFlow — Gestión y seguimiento financiero — [Ver](https://github.com/YessCor/DebtFlow)
 
 ### Utilidades y productividad
 
-- gestor-de-tiempo — Herramienta de productividad (confidencial / sin enlace)
-- gestordetareas-sencillo — Versión pública / demo (sin enlace si prefieres)
+- gestor-de-tiempo — Herramienta de productividad (🔒 Confidencial — sin enlace público)
+- gestordetareas-sencillo — Versión pública / demo — [Ver](https://github.com/YessCor/gestordetareas-sencillo)
 
 ### Proyectos privados
 
@@ -62,16 +62,14 @@ He organizados los repositorios públicos por categoría. Los proyectos privados
 
 - Cabecera con botones (email, GitHub, portafolio)
 - Listado de proyectos limpio y categorizado
-- Eliminados los repositorios: YessCor, Brand, Cooltrack_Flutter, SistemaDeSeguridad (no aparecen en la lista pública de proyectos)
-- Eliminado el enlace "Ver" para proyectos privados/gestor-de-tiempo
+- Eliminados los repositorios: YessCor, Brand, Cooltrack_Flutter, SistemaDeSeguridad de la lista pública
+- gestor-de-tiempo aparece como privado (sin enlace), otros repositorios públicos mantienen su enlace "Ver"
 
 ---
 
 ## 📌 Nota / siguiente paso
 
-He actualizado el README según lo solicitado: removí las entradas indicadas, quité el botón "Ver" en proyectos privados/gestor-de-tiempo y añadí el enlace al portafolio (repo PortafolioYess). Revisa el resultado en https://github.com/YessCor/YessCor.
-
-Si quieres que haga más: puedo transformar la sección de proyectos en una cuadrícula con imágenes (capturas) y badges por proyecto, o generar una versión corta enfocada a recruiters.
+Si quieres, puedo transformar la sección de proyectos en una cuadrícula con imágenes (capturas) y badges por proyecto, o crear una versión corta para recruiters.
 
 ---
 
