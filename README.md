@@ -97,13 +97,13 @@ También tengo experiencia en proyectos privados y de cliente, enfocados en solu
 | **SistemaDeSeguridad** | Seguridad digital con reconocimiento y control | [Ver](https://github.com/YessCor/SistemaDeSeguridad) |
 | **gestordetareas-sencillo** | Herramienta de productividad simple | [Ver](https://github.com/YessCor/gestordetareas-sencillo) |
 
-### Repositorios adicionales
+### Proyectos privados (no públicos)
 
-| Repositorio | Descripción | Enlace |
-|-------------|-------------|--------|
-| **YessCor** | Perfil principal | [Ver](https://github.com/YessCor/YessCor) |
+| Proyecto | Nota |
+|---------|------|
+| Proyectos internos y trabajos para clientes | 🔒 Confidenciales — no disponibles públicamente |
 
-> También cuento con proyectos privados y de cliente, enfocados en soluciones empresariales y confidenciales, que no se publican en GitHub por políticas de negocio.
+> Si necesitas acceso a algún repositorio privado para revisar código o colaborar, contáctame por correo y coordinamos permisos de acceso.
 
 ---
 
