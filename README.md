@@ -20,6 +20,8 @@ Soy un desarrollador Full-Stack con enfoque en crear productos digitales funcion
 
 He trabajado en proyectos de administración, e-commerce, seguridad, analítica, apps móviles, dashboards empresariales y soluciones con IA/data. Mi objetivo es seguir aprendiendo, colaborar en equipos productivos y construir software que resuelva problemas concretos.
 
+También manejo proyectos privados y de cliente, enfocados en soluciones empresariales con criterios de confidencialidad, seguridad y alto valor de negocio.
+
 ---
 
 ## Stack tecnológico
@@ -79,8 +81,9 @@ He trabajado en proyectos de administración, e-commerce, seguridad, analítica,
 | **gestordetareas-sencillo** | Herramienta de productividad simple | [Ver repositorio](https://github.com/YessCor/gestordetareas-sencillo) |
 | **Manjares del Campo** | E-commerce agrícola | [Ver estructura del proyecto](https://github.com/YessCor?tab=repositories) |
 | **CinePlex** | Sistema de cine / tickets | [Ver estructura del proyecto](https://github.com/YessCor?tab=repositories) |
+| **Repositorios privados** | Proyectos internos / clientes / confidenciales | 🔒 No públicos |
 
-> Algunos repositorios se enfocan en soluciones específicas y otros en experimentación, práctica o proyectos en evolución. El perfil refleja una cartera diversa en tecnologías web, móvil, backend y analítica.
+> Algunos repositorios se enfocan en soluciones específicas y otros en experimentación, práctica o proyectos en evolución. Además, cuento con proyectos privados para cliente, soluciones empresariales y entregas internas, que por confidencialidad no están publicados públicamente.
 
 ---
 
@@ -104,6 +107,7 @@ He trabajado en proyectos de administración, e-commerce, seguridad, analítica,
 | Indicador | Valor |
 |-----------|-------|
 | Repositorios activos | 15+ |
+| Repositorios privados | Incluidos en proyectos de cliente |
 | Enfoque principal | Full-Stack + Mobile |
 | Tecnologías principales | TypeScript, Python, React, Node.js |
 | Intereses actuales | IA, automatización, productos digitales |
