@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-blue)
 ![Location](https://img.shields.io/badge/Ubicación-Colombia-success)
 
-**`🚀 16 repositorios públicos` | `🌐 Full-Stack` | `📱 Mobile + Web` | `🧠 IA + Automatización`**
+**`🚀 17 repositorios públicos` | `🌐 Full-Stack` | `📱 Mobile + Web` | `🧠 IA + Automatización`**
 
 </div>
 
@@ -71,7 +71,8 @@ También tengo experiencia en proyectos privados y de cliente, enfocados en solu
 | **YessMer** | Plataforma digital / proyecto productivo | [Ver](https://github.com/YessCor/YessMer) |
 | **PortafolioYess** | Portafolio personal web | [Ver](https://github.com/YessCor/PortafolioYess) |
 | **Brand** | Identidad visual / branding | [Ver](https://github.com/YessCor/Brand) |
-| **CC_JR** | Proyecto digital de aplicación y negocio | [Ver](https://github.com/YessCor/CC_JR) |
+| **CC_JR** | Proyecto digital de aplicación y negocio (CC.JR) | [Ver](https://github.com/YessCor/CC_JR) |
+| **gestor-de-tiempo** | Herramienta de gestión de tiempo / productividad | [Ver](https://github.com/YessCor/gestordetareas-sencillo) |
 
 ### Mobile y apps
 
@@ -126,7 +127,7 @@ También tengo experiencia en proyectos privados y de cliente, enfocados en solu
 
 | Indicador | Valor |
 |-----------|-------|
-| Repositorios públicos | 16 |
+| Repositorios públicos | 17 |
 | Repositorios privados | Incluidos en proyectos de cliente |
 | Enfoque principal | Full-Stack + Mobile |
 | Tecnologías principales | TypeScript, Python, React, Node.js |
